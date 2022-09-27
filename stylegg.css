@@ -64,7 +64,7 @@ section > img
     flex-direction: row;
     height: 41px;
     width: 584px;
-    background-color: #90E0EF;
+    background-color: #DFDFDE;
     align-items: center;
     border-radius: 20px;
     margin-top: 20px;
@@ -102,7 +102,7 @@ section > img
 }
 #buttons > button:hover
 {
-    background-color: #B6EB7A;
+    background-color: #DFDFDE;
     cursor: pointer;
     border-radius: 5px;
 }
